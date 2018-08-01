@@ -3,7 +3,7 @@
 ## 优先级
 
 * [x] GIT
-* [] TypeScript
+* [ ] TypeScript
 * [] Maptalks
 * [] Markdown
 * [] 正则表达式
