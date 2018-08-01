@@ -4,10 +4,10 @@
 
 * [x] GIT
 * [ ] TypeScript
-* [] Maptalks
-* [] Markdown
-* [] 正则表达式
-* [] Python
+* [ ] Maptalks
+* [ ] Markdown
+* [ ] 正则表达式
+* [ ] Python
 
 ## GIT
 
