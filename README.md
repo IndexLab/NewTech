@@ -3,7 +3,7 @@
 ## 优先级
 
 * [x] GIT
-* [ ] TypeScript
+* [x] TypeScript
 * [ ] Maptalks
 * [ ] Linux&Shell
 * [ ] Markdown
