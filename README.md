@@ -5,6 +5,7 @@
 * [x] GIT
 * [ ] TypeScript
 * [ ] Maptalks
+× [ ] Linux&Shell
 * [ ] Markdown
 * [ ] 正则表达式
 * [ ] Python
