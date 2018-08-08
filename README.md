@@ -6,7 +6,7 @@
 * [x] TypeScript
 * [x] Maptalks
 * [ ] Linux&Shell
-* [ ] Markdown
+* [x] Markdown
 * [ ] 正则表达式
 * [ ] Python
 * [ ] Docker
