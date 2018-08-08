@@ -4,7 +4,7 @@
 
 * [x] GIT
 * [x] TypeScript
-* [ ] Maptalks
+* [x] Maptalks
 * [ ] Linux&Shell
 * [ ] Markdown
 * [ ] 正则表达式
