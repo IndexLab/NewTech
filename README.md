@@ -33,7 +33,7 @@ https://www.tslang.cn/docs/handbook/basic-types.html
 * 要求
   * ***以下命令尽量通过使用 man 和 --help 来查看帮助，尽量避免使用百度、谷歌***
   * 了解 ls, ll 有-a与没有的区别
-  * 进入(cd)家目录，(mkdir)新建Project/test目录, 删除(rmdir)test目录，新建(vim)test.html,赋予普通用户可执行权限(chmod)
+  * 进入(cd)家目录，(mkdir)新建Project/test目录, 删除(rmdir)test目录，新建(touch)test.html,赋予普通用户可执行权限(chmod)
   * 在刚才新建的test.hmtl中写一个 hello world 页面
   * 测试
     * 使用curl 和 wget 进行测试，并理解两者的不同
