@@ -22,14 +22,14 @@ https://www.tslang.cn/docs/handbook/basic-types.html
 
 ## Maptalks
 
-* [网站](http://maptalks.org/examples/en/map/load/)
+* [网站](http://maptalks.org/examples/en/map/load/):http://maptalks.org/examples/en/map/load/
 * 要求：
   * 熟悉API架构
   * 熟悉map和各种符号，Geometry之间的关系
 
 ## Linux&Shell
 
-* [网站](http://man.linuxde.net/)
+* [网站](http://man.linuxde.net/):http://man.linuxde.net/
 * 要求
   * ***以下命令尽量通过使用 man 和 --help 来查看帮助，尽量避免使用百度、谷歌***
   * 了解 ls, ll 有-a与没有的区别
