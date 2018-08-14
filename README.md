@@ -7,6 +7,7 @@
 * [x] Maptalks
 * [ ] Linux&Shell
 * [x] Markdown
+* [ ] Sass
 * [ ] 正则表达式
 * [ ] Python
 * [ ] Docker
@@ -27,6 +28,15 @@ https://www.tslang.cn/docs/handbook/basic-types.html
   * 熟悉API架构
   * 熟悉map和各种符号，Geometry之间的关系
 
+## Sass
+
+* [网站](https://www.sass.hk/):https://www.sass.hk/
+* 要求：
+  * sass 格式
+  * 变量
+  * 样式嵌套
+  * 子父兄节点之间选择
+  
 ## Linux&Shell
 
 * [网站](http://man.linuxde.net/):http://man.linuxde.net/
