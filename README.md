@@ -7,6 +7,7 @@
 * [x] Maptalks
 * [ ] Linux&Shell
 * [x] Markdown
+* [ ] 发布订阅模式学习[PubSub-js](https://www.npmjs.com/package/pubsub-js)
 * [ ] Sass
 * [ ] 正则表达式
 * [ ] Python
@@ -27,6 +28,11 @@ https://www.tslang.cn/docs/handbook/basic-types.html
 * 要求：
   * 熟悉API架构
   * 熟悉map和各种符号，Geometry之间的关系
+
+## 发布订阅模式学习[PubSub-js](https://www.npmjs.com/package/pubsub-js)
+* [网站](## )
+* 要求
+ × 了解发布订阅的内在机制
 
 ## Sass
 
