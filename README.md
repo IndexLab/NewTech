@@ -72,6 +72,7 @@ https://www.tslang.cn/docs/handbook/basic-types.html
   * 熟悉Python系统编程库
   * 熟悉Flask
   * 熟悉科学计算库
+  * 将慕课网上关于python的课程的名称、简介、讲师等内容爬下来,存个文本文件, 熟悉Flask后将其存入数据库
 
 ## 正则表达式
 
