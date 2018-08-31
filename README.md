@@ -8,9 +8,9 @@
 * [ ] Linux&Shell
 * [x] Markdown
 * [ ] 发布订阅模式学习[PubSub-js](https://www.npmjs.com/package/pubsub-js)
-* [ ] Sass
-* [ ] 正则表达式
-* [ ] Python
+* [x] Sass
+* [x] 正则表达式
+* [x] Python
 * [ ] Docker
 
 ## GIT
